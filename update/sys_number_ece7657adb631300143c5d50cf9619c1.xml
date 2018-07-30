@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_11532_fitness_tr_workout">x_11532_fitness_tr_workout</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WOR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 18:41:55</sys_created_on>
+        <sys_id>ece7657adb631300143c5d50cf9619c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WOR</sys_name>
+        <sys_package display_value="Fitness Tracker" source="x_11532_fitness_tr">a8f1a132db231300143c5d50cf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fitness Tracker">a8f1a132db231300143c5d50cf961974</sys_scope>
+        <sys_update_name>sys_number_ece7657adb631300143c5d50cf9619c1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 18:41:55</sys_updated_on>
+    </sys_number>
+</record_update>

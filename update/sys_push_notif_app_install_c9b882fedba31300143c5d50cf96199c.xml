@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2018-07-30 21:05:18</last_registered_on>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 21:05:18</sys_created_on>
+        <sys_id>c9b882fedba31300143c5d50cf96199c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fSWdBIfkBbw:APA91bG7rMImJcK1VOXR1QOJtNcdV-dx-2bddXeTQ7Rd9yWYL0tYeYC89RUQQk8P4bXVqYodHMaUk7HJHVXExxTUUnHRQ9ZbcvBHpUL6r3I_pB5hnhpNhm07Nc1Up66ncz5Mr462QS4QJVl_Og8dbgRihoUZ1v-ylg</sys_name>
+        <sys_package display_value="Fitness Tracker" source="x_11532_fitness_tr">a8f1a132db231300143c5d50cf961974</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">ab704041ff1102009738ffffffffff33</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="Fitness Tracker">a8f1a132db231300143c5d50cf961974</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_c9b882fedba31300143c5d50cf96199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 21:05:18</sys_updated_on>
+        <sys_user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fSWdBIfkBbw:APA91bG7rMImJcK1VOXR1QOJtNcdV-dx-2bddXeTQ7Rd9yWYL0tYeYC89RUQQk8P4bXVqYodHMaUk7HJHVXExxTUUnHRQ9ZbcvBHpUL6r3I_pB5hnhpNhm07Nc1Up66ncz5Mr462QS4QJVl_Og8dbgRihoUZ1v-ylg</token>
+    </sys_push_notif_app_install>
+</record_update>

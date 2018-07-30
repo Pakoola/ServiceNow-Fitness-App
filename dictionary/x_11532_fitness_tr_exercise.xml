@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Exercise" max_length="40" name="x_11532_fitness_tr_exercise" type="collection">
+        <element display="true" label="Name" max_length="255" name="name" reference="x_11532_fitness_tr_exercise_definitions" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Order" max_length="40" name="order" type="integer"/>
+        <element choice="1" label="Repititions" max_length="40" name="repititions" type="choice">
+            <choice>
+                <element label="6x8x10" sequence="0" value="6x8x10"/>
+                <element label="8x10x12" sequence="1" value="8x10x12"/>
+                <element label="8x8x8" sequence="2" value="8x8x8"/>
+                <element label="6x8x8" sequence="3" value="6x8x8"/>
+                <element label="Until Fail" sequence="4" value="Until Fail"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Weight" max_length="20" name="weight" type="decimal"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Workout" max_length="32" name="workout" reference="x_11532_fitness_tr_workout" type="reference"/>
+        <index name="index">
+            <element name="workout"/>
+        </index>
+    </element>
+</database>

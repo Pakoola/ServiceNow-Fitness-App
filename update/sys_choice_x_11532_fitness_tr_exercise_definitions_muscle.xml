@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="muscle" table="x_11532_fitness_tr_exercise_definitions" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Abs (rectus abdominis)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:58:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0597536dba31300143c5d50cf961943</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:58:04</sys_updated_on>
+            <value>Abs (rectus abdominis)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Biceps (bicep brachii)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:57:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>952975f2dba31300143c5d50cf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:57:20</sys_updated_on>
+            <value>Biceps (bicep brachii)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Calves (gastrcnemius)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:58:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3697df2dba31300143c5d50cf961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:58:33</sys_updated_on>
+            <value>Calves (gastrcnemius)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Calves</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 20:00:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3ce93df2dba31300143c5d50cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 20:00:34</sys_updated_on>
+            <value>Calves (gastrocnemius)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chest (Pectoralis)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:57:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c19b5b2dba31300143c5d50cf961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:57:01</sys_updated_on>
+            <value>Chest (Pectoralis)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Forearm (brachioradialis)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:57:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e54979b2dba31300143c5d50cf961994</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:57:53</sys_updated_on>
+            <value>Forearm (brachioradialis)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Glutes (gluteus maximus)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:59:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fb9b136dba31300143c5d50cf9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:59:55</sys_updated_on>
+            <value>Glutes (gluteus maximus)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hamstrings (bicep femoris)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 20:00:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28d9b136dba31300143c5d50cf9619df</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 20:00:17</sys_updated_on>
+            <value>Hamstrings (bicep femoris)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lats (latissimus dorsi)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:59:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1f893136dba31300143c5d50cf961957</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:59:07</sys_updated_on>
+            <value>Lats (latissimus dorsi)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lower Back</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:59:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11a9b136dba31300143c5d50cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:59:31</sys_updated_on>
+            <value>Lower Back</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Neck</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:55:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>20d839b2dba31300143c5d50cf9619ef</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:56:10</sys_updated_on>
+            <value>Neck</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quads (quadriceps)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 20:00:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5c975f2dba31300143c5d50cf961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 20:00:06</sys_updated_on>
+            <value>Quads (quadriceps)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quads (quadriceps)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:58:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cb59f136dba31300143c5d50cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:58:17</sys_updated_on>
+            <value>Quads (quadriceps)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shoulders (deltoids)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:56:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2509b9b2dba31300143c5d50cf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:56:48</sys_updated_on>
+            <value>Shoulders (deltoids)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Traps (trapezius)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:56:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>51f8f9b2dba31300143c5d50cf961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:56:31</sys_updated_on>
+            <value>Traps (trapezius)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>muscle</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Triceps (triceps brachii)</label>
+            <language>en</language>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:58:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b797536dba31300143c5d50cf961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:58:52</sys_updated_on>
+            <value>Triceps (triceps brachii)</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>muscle</element>
+            <name>x_11532_fitness_tr_exercise_definitions</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-30 19:55:54</sys_created_on>
+            <sys_id>64d8b136dba31300143c5d50cf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>muscle</sys_name>
+            <sys_package display_value="Fitness Tracker" source="x_11532_fitness_tr">a8f1a132db231300143c5d50cf961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fitness Tracker">a8f1a132db231300143c5d50cf961974</sys_scope>
+            <sys_update_name>sys_choice_x_11532_fitness_tr_exercise_definitions_muscle</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-30 19:55:54</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

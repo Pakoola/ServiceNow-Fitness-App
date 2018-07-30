@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-30 19:53:30</sys_created_on>
+        <sys_id>0d48b9f2dba31300143c5d50cf96198b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_11532_fitness_tr_exercise_definitions.x_11532_fitness_tr.exercise_definitions_user</sys_name>
+        <sys_package display_value="Fitness Tracker" source="x_11532_fitness_tr">a8f1a132db231300143c5d50cf961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fitness Tracker">a8f1a132db231300143c5d50cf961974</sys_scope>
+        <sys_security_acl display_value="x_11532_fitness_tr_exercise_definitions">8d48b9f2dba31300143c5d50cf961988</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0d48b9f2dba31300143c5d50cf96198b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-30 19:53:30</sys_updated_on>
+        <sys_user_role display_value="x_11532_fitness_tr.exercise_definitions_user" name="x_11532_fitness_tr.exercise_definitions_user">4548b5b2dba31300143c5d50cf96196d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

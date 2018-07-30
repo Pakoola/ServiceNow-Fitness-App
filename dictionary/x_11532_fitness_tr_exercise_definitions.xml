@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Exercise Definitions" max_length="40" name="x_11532_fitness_tr_exercise_definitions" type="collection">
+        <element label="Alternative" max_length="32" name="alternative" reference="x_11532_fitness_tr_exercise_definitions" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Image" max_length="40" name="image" type="user_image"/>
+        <element choice="1" label="Muscle" max_length="40" name="muscle" type="choice">
+            <choice>
+                <element label="Abs (rectus abdominis)" value="Abs (rectus abdominis)"/>
+                <element label="Biceps (bicep brachii)" value="Biceps (bicep brachii)"/>
+                <element label="Calves" value="Calves (gastrocnemius)"/>
+                <element label="Calves (gastrcnemius)" value="Calves (gastrcnemius)"/>
+                <element label="Chest (Pectoralis)" value="Chest (Pectoralis)"/>
+                <element label="Forearm (brachioradialis)" value="Forearm (brachioradialis)"/>
+                <element label="Glutes (gluteus maximus)" value="Glutes (gluteus maximus)"/>
+                <element label="Hamstrings (bicep femoris)" value="Hamstrings (bicep femoris)"/>
+                <element label="Lats (latissimus dorsi)" value="Lats (latissimus dorsi)"/>
+                <element label="Lower Back" value="Lower Back"/>
+                <element label="Neck" value="Neck"/>
+                <element label="Quads (quadriceps)" value="Quads (quadriceps)"/>
+                <element label="Quads (quadriceps)" value="Quads (quadriceps)"/>
+                <element label="Shoulders (deltoids)" value="Shoulders (deltoids)"/>
+                <element label="Traps (trapezius)" value="Traps (trapezius)"/>
+                <element label="Triceps (triceps brachii)" value="Triceps (triceps brachii)"/>
+            </choice>
+        </element>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" display="true" label="Name" max_length="255" name="name" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="alternative"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" label="Workout" max_length="40" name="x_11532_fitness_tr_workout" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Date" max_length="40" name="date" type="glide_date"/>
+        <element attributes="format=glide_duration" calculation="(function calculatedFieldValue(current) {&#13;&#10;    var startDate = new GlideDateTime(current.start_time);&#13;&#10;    var endDate = new GlideDateTime(current.end_time);&#13;&#10;    if (endDate.getDisplayValue() == '') {&#13;&#10;        var today = new GlideDateTime();&#13;&#10;        var result = GlideDateTime.subtract(startDate, today);&#13;&#10;        return result.getDisplayValue();&#13;&#10;    } else {&#13;&#10;        var duration = GlideDateTime.subtract(startDate, endDate);&#13;&#10;        return duration.getDisplayValue();&#13;&#10;    }&#13;&#10;})(current);" label="Duration" max_length="40" name="duration" type="glide_duration" virtual="true"/>
+        <element label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Supplements" max_length="40" name="supplements" type="boolean"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
